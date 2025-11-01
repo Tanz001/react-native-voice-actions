@@ -1,0 +1,28 @@
+# Source files (only include lib/)
+src/
+example/
+
+# Development files
+.git/
+.gitignore
+.babel.config.js
+tsconfig.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+coverage/
+.nyc_output/
+
+# Logs
+npm-debug.log*
+yarn-error.log*
+
